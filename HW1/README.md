@@ -48,5 +48,6 @@ In the Github, ML2016/hw1/ should include Report.pdf, linear_regression.sh, kagg
 Usage:
 ```
 ./linear_regression.sh 輸出:linear_regression.csv 
+
 ./kaggle_best.sh 輸出:kaggle_best.csv
 ```
