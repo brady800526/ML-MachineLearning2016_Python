@@ -15,7 +15,10 @@ ML #0
 
 ![](http://i66.tinypic.com/ms0yl1.png "Lena.png")
 
-How to evaluate the your assignment:
+## Submission format
+
+In the Github, ML2016/hw0/
+
 ```
     - ./Q1.sh 3 file.dat (第一個是column的index，第二個是檔案) 輸出檔名: ans1.txt
 
